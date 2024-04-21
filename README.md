@@ -3,6 +3,9 @@
 
 # Courseera FARS project
 
+I am Tomasz S. . This git repository and project is just for the purpose
+of the assigment in the course.
+
 ## Travis badge:
 
 <!-- badges: start -->
@@ -61,7 +64,7 @@ summary(cars)
 You’ll still need to render `README.Rmd` regularly, to keep `README.md`
 up-to-date. `devtools::build_readme()` is handy for this.
 
-You can also embed plots, for example:
+You can also embed plots, for example (the below may not execute):
 
 <img src="man/figures/README-pressure-1.png" width="100%" />
 
