@@ -1,0 +1,15 @@
+Package: fars
+Type: Package
+Title: Small FARS dataset package
+Version: 0.1.0
+Author: Tom S. .. .c
+Imports: dplyr, maps, readr, tidyr
+Maintainer: The package maintainer <fatale@o2.pl>
+Description: The project just for the purpose of Coursera assigment. This github account is also for a pupose of this task.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Suggests: testthat, knitr, rmarkdown
+RoxygenNote: 7.3.1
+VignetteBuilder: knitr
+Depends: R (>= 2.10)
